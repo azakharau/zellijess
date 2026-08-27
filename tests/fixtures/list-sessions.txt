@@ -1,0 +1,7 @@
+zellijess [Created 4m 26s ago]
+work-base [Created 1h 02m ago]
+work-exited [Created 1h 02m ago] (EXITED - attach to resurrect)
+work-current [Created 1h 02m ago] (current)
+work-active [Created 1h 02m ago] (active)
+work-weird [Created 1h 02m ago] (migrating)
+work-no-metadata
